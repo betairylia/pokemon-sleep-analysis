@@ -29,9 +29,11 @@ Slept 34200s
 >Squirtle: ING, 1b/2i, 4419s, Skill Trigger M, Main skill chance++  
 
 :~ 1612/31 = 52 (helped ~~26~~ 13 times) + 16 berries holding (8) = 21  
-- 87318s (2.553x)  
+- 87318s (2.553x)
+
 :+ 1120/32 = 35 (9?) + 10 berries (5) + 6 honey = 20  
 - 82480s (2.412x)  
+
 :++ 1848/33 = 56 (helped ~~28~~ 14 times) + 14 berries (7) + 2 honey (2) = 23  
 - 85721 (2.506x)  
 
@@ -40,7 +42,7 @@ Ingredient finding++ provides +20% on ingredient drop rates.
 
 ### Ingredients correction  
 Ingredient rate of above metapods: (average from ~ & ++):  
-Pichu 4-1 (20%); ~ 8-0 (0%); ++ 7-2 (22.2%). => Approx. 14.06%  
+Pichu 4-1 (20%); ~ 8-0 (0%); ++ 7-2 (22.2%). => Approx. 14.06% (say, 15% is being used)  
 - Likelihood: 39%, 27%, 26%  
 
 If above was correct, then Metapod+ (5-6, 54.5%) => 35%?  
@@ -91,7 +93,7 @@ Totodile 720 (20 berries (35p)?) -> 10 + 6 = 16 helps? = 71280s (1.584x)
 
 ING-Charmander 324 (9 berries (36p)?) -> 11.25 + 10 = 21.25 helps = 65726.25s (1.461x)  
 
-ING type mons seems having a significantly short amount of time.  
+ING type mons seems having a significantly short amount of effective time.  
 Hypothesis: ING-mons have more % to obtain ingredients per help. How much?  
 
 Difference between 75000s:  
