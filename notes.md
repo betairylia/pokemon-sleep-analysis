@@ -1,6 +1,6 @@
 **tl;dr**:
 
-- The true helping rate of pokemon seems significantly faster than said in there stats menu (`Frequency`), for passive play.
+- The true helping rate of pokemon seems significantly faster than said in their stats menu (`Frequency`) (passive play).
 - Seems we have ~20% ingredient drops per help for berry specialists.
 - For ingredient specialists however, this probability seems to be ~30%.
 
